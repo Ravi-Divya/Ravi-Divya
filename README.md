@@ -1,44 +1,35 @@
-## 🧑‍💻 About Me
-> I am an enthusiastic aspiring Artificial Intelligence student, currently pursuing 3rd-year B.Tech with experience in developing and deploying AI/ML models.
+## 👋 About Me  
+I am a 3rd-year B.Tech AI student passionate about building AI/ML solutions.
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-link)
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
 
 ---
 
-## 🧰 Skills
+## 🧠 Skills
 
-### 📦 Programming
-| Python | C | Java |
-|--------|----|------|
-| 🟦 | 🟩 | 🟧 |
+### 💻 Programming  
+`🟦 Python` `🟩 C` `🟧 Java`
 
-### 🤖 AI / ML
-| Scikit-learn | NumPy | Pandas |
-|--------------|--------|---------|
-| 🧠 | 🔢 | 📊 |
+### 🤖 AI/ML  
+`Scikit-learn` `NumPy` `Pandas`
 
-### 🌐 Web
-| HTML | CSS |
-|------|------|
-| 🟥 | 🟦 |
+### 🌐 Web  
+`HTML` `CSS`
 
-### 🗄 Databases
-| MySQL | SQL |
-|-------|------|
-| 🟦 | 🟦 |
+### 🗄 Databases  
+`MySQL` `SQL`
 
-### 🧩 Tools & OS
-| Linux | Windows | Android | macOS |
-|--------|----------|-----------|----------|
-| 🐧 | 🪟 | 🤖 | 🍎 |
+### 🧩 Tools & OS  
+`Linux` `Windows` `Android` `macOS`
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true" />
+## 📈 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true)
+
 
 
 
