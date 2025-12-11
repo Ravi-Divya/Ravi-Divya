@@ -1,5 +1,5 @@
 ## 👋 About Me  
-I am a passionate Artificial Intelligence student with hands-on experience in developing and deploying machine learning models. I enjoy building intelligent solutions that solve real-world problems and continuously expanding my technical skills. I am always eager to learn, experiment, and improve.
+I am a passionate Artificial Intelligence student with hands-on experience in developing machine learning models. I enjoy building intelligent solutions that solve real-world problems and continuously expanding my technical skills. I am always eager to learn, experiment, and improve.
 
 ---
 
