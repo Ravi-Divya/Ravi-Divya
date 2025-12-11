@@ -13,30 +13,25 @@ I am eager to explore new technologies and contribute to real-world AI and ML so
 ## 🧰 Skills
 
 ### 📦 Programming
-| Python | C | Java |
-|--------|----|------|
-| 🟦 | 🟩 | 🟧 |
+| Python  | C  | Java  |
+|-----------|------|----------|
+| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![C](https://img.icons8.com/color/48/000000/c-programming.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
+
+
+### 🌐 Web Development
+| HTML | CSS |
+|------|------|
+| <img src="https://img.icons8.com/color/48/html-5.png" width="40"/> | <img src="https://img.icons8.com/color/48/css3.png" width="40"/> |
 
 ### 🤖 AI / ML
 | Scikit-learn | NumPy | Pandas |
 |--------------|--------|---------|
-| 🧠 | 🔢 | 📊 |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70"/> |
 
-### 🌐 Web
-| HTML | CSS |
-|------|------|
-| 🟥 | 🟦 |
-
-### 🗄 Databases
-| MySQL | SQL |
-|-------|------|
-| 🟦 | 🟦 |
-
-### 🧩 Tools & OS
+### 🧩 Operating Systems & Tools
 | Linux | Windows | Android | macOS |
-|--------|----------|-----------|----------|
-| 🐧 | 🪟 | 🤖 | 🍎 |
+|--------|----------|-----------|--------|
+| <img src="https://img.icons8.com/color/48/linux--v1.png" width="40"/> | <img src="https://img.icons8.com/color/48/windows-10.png" width="40"/> | <img src="https://img.icons8.com/color/48/android-os.png" width="40"/> | <img src="https://img.icons8.com/ios-filled/50/mac-os.png" width="40"/> |
 
----
 
 
