@@ -1,44 +1,45 @@
-## 👋 About Me  
-I am an enthusiastic aspiring Artificial Intelligence student, currently pursuing a 3rd-year B.Tech degree with hands-on experience in developing and deploying AI/ML models through academic and personal projects.  
-I am eager to explore new technologies and contribute to real-world AI and ML solutions.
+## 🧑‍💻 About Me
+> I am an enthusiastic aspiring Artificial Intelligence student, currently pursuing 3rd-year B.Tech with experience in developing and deploying AI/ML models.
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-link-here)
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-link)
 
 ---
 
-## 🛠 Skills
+## 🧰 Skills
 
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+### 📦 Programming
+| Python | C | Java |
+|--------|----|------|
+| 🟦 | 🟩 | 🟧 |
 
-### 🤖 AI / ML  
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 AI / ML
+| Scikit-learn | NumPy | Pandas |
+|--------------|--------|---------|
+| 🧠 | 🔢 | 📊 |
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web
+| HTML | CSS |
+|------|------|
+| 🟥 | 🟦 |
 
-### 🗄 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+### 🗄 Databases
+| MySQL | SQL |
+|-------|------|
+| 🟦 | 🟦 |
 
-### 🧰 Tools & OS  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+### 🧩 Tools & OS
+| Linux | Windows | Android | macOS |
+|--------|----------|-----------|----------|
+| 🐧 | 🪟 | 🤖 | 🍎 |
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true" />
+
 
 
 
