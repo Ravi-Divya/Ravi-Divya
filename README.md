@@ -1,7 +1,5 @@
 ## 👋 About Me  
-I am an enthusiastic aspiring Artificial Intelligence student, currently pursuing a 3rd-year B.Tech degree with hands-on experience in developing and deploying AI/ML models through academic and personal projects.  
-I am eager to explore new technologies and contribute to real-world AI and ML solutions.
-
+I am a passionate Artificial Intelligence student with hands-on experience in developing and deploying machine learning models. I enjoy building intelligent solutions that solve real-world problems and continuously expanding my technical skills. I am always eager to learn, experiment, and improve.
 
 ---
 
