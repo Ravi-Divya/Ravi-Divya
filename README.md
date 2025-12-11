@@ -1,34 +1,37 @@
-## 👋 About Me  
-I am a 3rd-year B.Tech AI student passionate about building AI/ML solutions.
+## 🧑 About Me  
+🎓 AI/ML Student  
+💡 Passionate about applied machine learning  
+🚀 Exploring AI technologies  
 
 ---
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+## 🌐 Connect  
+🔗 [LinkedIn](your-link)
 
 ---
 
-## 🧠 Skills
+## 🧰 Skills
 
-### 💻 Programming  
-`🟦 Python` `🟩 C` `🟧 Java`
+### 💻 Programming
+🟦 Python 🟩 C 🟧 Java
 
-### 🤖 AI/ML  
-`Scikit-learn` `NumPy` `Pandas`
+### 🤖 AI & ML
+🧠 Scikit-learn 🔢 NumPy 📊 Pandas
 
-### 🌐 Web  
-`HTML` `CSS`
+### 🌐 Web
+🌐 HTML 🎨 CSS
 
-### 🗄 Databases  
-`MySQL` `SQL`
+### 🗄 Databases
+💾 MySQL 📘 SQL
 
-### 🧩 Tools & OS  
-`Linux` `Windows` `Android` `macOS`
+### 🧰 Tools & OS
+🐧 Linux 🪟 Windows 🤖 Android 🍎 macOS
 
 ---
 
-## 📈 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true)
+## 📊 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight)
+
 
 
 
