@@ -27,7 +27,7 @@ I am eager to explore new technologies and contribute to real-world AI and ML so
 ### 🤖 AI / ML
 | Scikit-learn | NumPy | Pandas |
 |--------------|--------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> | <img src="https://img.icons8.com/color/48/pandas.png" width="50"/>
 
 ### 🧩 Operating Systems & Tools
 | Linux | Windows | Android | macOS |
