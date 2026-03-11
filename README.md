@@ -28,9 +28,9 @@ I am a passionate Artificial Intelligence student with hands-on experience in de
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60"/> | <img src="https://img.icons8.com/color/48/pandas.png" width="50"/>
 
 ### 🧩 Operating Systems & Tools
-| Linux | Windows | Android | macOS |
-|--------|----------|-----------|--------|
-| <img src="https://img.icons8.com/color/48/linux--v1.png" width="40"/> | <img src="https://img.icons8.com/color/48/windows-10.png" width="40"/> | <img src="https://img.icons8.com/color/48/android-os.png" width="40"/> | <img src="https://img.icons8.com/fluency/48/mac-os.png" width="40"/> |
+| Linux | 
+|--------|
+| <img src="https://img.icons8.com/color/48/linux--v1.png" width="40"/> |
 
 
 
