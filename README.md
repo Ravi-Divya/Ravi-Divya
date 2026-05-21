@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Ravi Divya</h1>
 
-<h3 align="center">🤖 AI/ML Enthusiast | 🎨 Frontend Developer (Designing) | ✍️ Content Writer</h3>
+<h3 align="center">🤖 AI/ML Enthusiast | 🎨 Frontend Developer & UI Designer  | ✍️ Content Writer</h3>
 
 ---
 
