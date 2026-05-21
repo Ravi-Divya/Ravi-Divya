@@ -2,10 +2,6 @@
 
 <h3 align="center">🤖 AI/ML Enthusiast | 🎨 Frontend Developer (Designing) | ✍️ Content Writer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravi-divya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 👋 About Me  
