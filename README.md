@@ -1,3 +1,13 @@
+<h1 align="center">👋 Hey there, I'm Ravi Divya</h1>
+
+<h3 align="center">🤖 AI/ML Enthusiast | 🎨 Frontend Developer (Designing) | ✍️ Content Writer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravi-divya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
 ## 👋 About Me  
 I am a passionate Artificial Intelligence student with hands-on experience in developing machine learning models. I enjoy building intelligent solutions that solve real-world problems and continuously expanding my technical skills. I am always eager to learn, experiment, and improve.
 
